@@ -1,7 +1,7 @@
 # PHP-Server-Class
 Simple PHP Server Class
 
-Usage :
+##Usage
 
   include "server.class.php";
   
@@ -14,3 +14,7 @@ Usage :
   @param    name    Name of the datas to get.
   
   @return   mixed   Datas stored in $_SERVER.
+
+##Credits
+
+Copyright (c) 2016, [Felipe Espinoza O.](https://github.com/fespinozadeveloper)
