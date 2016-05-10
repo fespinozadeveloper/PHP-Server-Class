@@ -1,5 +1,6 @@
 # PHP-Server-Class
-Simple PHP Server Class
+
+Simple PHP Server Class ($_SERVER)
 
 ##Usage
 
