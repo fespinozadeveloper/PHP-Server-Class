@@ -11,6 +11,6 @@ Usage :
   
     Example: $instance->REQUEST_TIME_FLOAT;
   
-  
   @param    name    Name of the datas to get.
+  
   @return   mixed   Datas stored in $_SERVER.
