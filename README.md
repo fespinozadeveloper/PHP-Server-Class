@@ -18,4 +18,4 @@ Simple PHP Server Class ($_SERVER)
 
 ##Credits
 
-Copyright (c) 2016, [Felipe Espinoza O.](https://github.com/fespinozadeveloper)
+Copyright (c) 2016, [fespinozadeveloper](https://github.com/fespinozadeveloper)
